@@ -27,7 +27,7 @@ jobs:
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: CET
+          config_timezone: UTC+2
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
