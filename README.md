@@ -3,7 +3,7 @@
 ![Metrics](/github-metrics.svg)
 
 <!--
-**alcneo/alcneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alc-corp/alc-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
